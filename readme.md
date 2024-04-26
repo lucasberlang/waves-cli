@@ -11,7 +11,7 @@ Ready to break free from the mundane? Dive into the world of Waves CLI and turn 
 
 ## Warning
 
-**Warning:** Waves CLI may cause an excessive amount of fun, resulting in prolonged terminal sessions and uncontrollable laughter. Use responsibly.
+**Warning** Waves CLI may cause an excessive amount of fun, resulting in prolonged terminal sessions and uncontrollable laughter. Use responsibly.
 
 ## Help
 
