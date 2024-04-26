@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Log files
+*.log
+
+# Build files
+/build/
+/dist/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
